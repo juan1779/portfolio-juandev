@@ -41,9 +41,9 @@ export const portafolioData = [
 		averageBrightness: 0.1,
 	},
 	{
-		imgSrc: 'https://i0.wp.com/themes.svn.wordpress.org/cafe-cafeteria/1.5.3/screenshot.png',
-		title: 'Coffe Store',
-		skills: ['React', 'CSS'],
+		imgSrc: '../../../public/img/login.png',
+		title: 'Login',
+		skills: ['React', 'Tailwind'],
 		descripcion:
 			"This project is a login simulation created using React, Redux, and localStorage. The application allows users to sign in and out, with their login status and user data stored in the browser's localStorage",
 		demoURL: 'https://login-react-redux-localstorage.netlify.app/',
