@@ -7,6 +7,7 @@ const {
 	skills,
 	repoURL,
 	demoURL,
+	caseURL,
 	averageBrightness,
 } = Astro.props;
 ---
@@ -46,6 +47,13 @@ const {
 				<a href={demoURL}>
 					<span>
 						Demo
+						{(<iconify-icon icon="quill:link-out" />)}
+					</span>
+				</a>
+
+				<a href={caseURL}>
+					<span>
+						Case Study
 						{(<iconify-icon icon="quill:link-out" />)}
 					</span>
 				</a>
