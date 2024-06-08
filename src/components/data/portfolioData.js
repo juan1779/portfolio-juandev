@@ -25,7 +25,7 @@ export const portafolioData = [
 			"Welcome to our online gourmet marketplace featuring a wide selection of the finest foods and spices from around the world. Explore our curated collection of culinary delights and discover the flavors that will elevate your cooking.",
 		demoURL: 'https://landing-food.netlify.app/',
 		repoURL: 'https://github.com/juan1779/Landing-food',
-		caseURL: '',
+		caseURL: "/blog/restaurant/",
 		anim: 'fade-right',
 	},
 	{
@@ -36,7 +36,7 @@ export const portafolioData = [
 			"Unlock the power of blockchain technology with our comprehensive suite of services. Whether you're an enterprise looking to streamline operations or a startup seeking to disrupt your industry, our team of blockchain experts can help you leverage this transformative innovation. ",
 		demoURL: 'https://landing-page-block.netlify.app/',
 		repoURL: 'https://github.com/juan1779/LandingPage',
-		caseURL: '',
+		caseURL: '/blog/secure',
 		anim: 'fade-up',
 		averageBrightness: 0.1,
 	},
@@ -48,7 +48,7 @@ export const portafolioData = [
 			"This project is a login simulation created using React, Redux, and localStorage. The application allows users to sign in and out, with their login status and user data stored in the browser's localStorage",
 		demoURL: 'https://login-react-redux-localstorage.netlify.app/',
 		repoURL: 'https://github.com/juan1779/Login-React',
-		caseURL: '',
+		caseURL: '/blog/login/',
 		anim: 'fade-left',
 	},
 	{
