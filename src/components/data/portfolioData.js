@@ -41,7 +41,7 @@ export const portafolioData = [
 		averageBrightness: 0.1,
 	},
 	{
-		imgSrc: '../../../public/img/login.png',
+		imgSrc: '/public/img/login.png',
 		title: 'Login',
 		skills: ['React', 'Tailwind'],
 		descripcion:
