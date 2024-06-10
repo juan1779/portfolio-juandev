@@ -18,7 +18,7 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: '../../../public/img/cook.png',
+		imgSrc: '/img/cook.png',
 		title: 'Restaurant',
 		skills: ['React', 'Tailwind'],
 		descripcion:
@@ -29,7 +29,7 @@ export const portafolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: '../../../public/img/secure.png',
+		imgSrc: '/img/secure.png',
 		title: 'Landing Page',
 		skills: ['React', 'Tailwind'],
 		descripcion:
@@ -41,7 +41,7 @@ export const portafolioData = [
 		averageBrightness: 0.1,
 	},
 	{
-		imgSrc: '/public/img/login.png',
+		imgSrc: '/img/login.png',
 		title: 'Login',
 		skills: ['React', 'Tailwind'],
 		descripcion:
