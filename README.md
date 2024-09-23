@@ -3,7 +3,6 @@
 
 Welcome to the Portfolio Template built with Astro! This responsive template allows you to showcase all your projects with an amazing UI. Below you'll find instructions on how to use this template, including how to add new portfolio items, main dependencies, and examples of usage.
 
-![Portada](image-1.png)
 ## Table of Contents
 
 1. [Usage](#usage)
@@ -134,17 +133,5 @@ You can view and edit the design of this template on Figma. Here is the [Figma d
 
 ## Author and License
 
-- **Author**: SofiDev / Garrux
+- **Author**: Juan
 - **License**: MIT
-
-## Bugs and Issues
-
-If you encounter any bugs or have issues, please report them [here](https://github.com/SofiDevO/portfolio-astrosofidev-garrux/issues).
-
-## Homepage
-
-For more information and detailed documentation, visit the [homepage](https://github.com/SofiDevO/portfolio-astrosofidev-garrux#readme).
-
----
-
-Enjoy building your portfolio! If you have any questions or run into any issues, feel free to reach out.
