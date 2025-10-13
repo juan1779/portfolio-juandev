@@ -1,0 +1,444 @@
+{
+  "analyticsCode": "",
+  "basics": {
+    "name": "Juan Santil",
+    "label": "Web Developer / Shopify Developer",
+    "animated_main_label": "Shopify Developer",
+    "animated_secondary_initial_label": "Frontend Developer",
+    "animated_secondary_final_label": "Shopify Developer",
+    "image": "/juan.jpeg",
+    "email": "juansantil061299@gmail.com",
+    "url": "https://juansantiln.netlify.app",
+    "summary": " Web developer with more than 4 years of experience in creating and customizing online stores, specialized in Shopify, Next.js and WordPress. I have participated in custom eCommerce projects, collaborating with multidisciplinary teams to deliver solutions focused on conversion, scalability and performance. I have technical proficiency in building Shopify themes (including Shopify Plus), integration of  external tools, and adapting interfaces using modern stacks such as React and Tailwind CSS. I distinguish myself by my detail-oriented approach, commitment to best practices, and ease of adapting to distributed teams and agile projects.",
+    "theme": "platinum",
+    "location": {
+      "address": "Maturin",
+      "city": "Monagas",
+      "countryCode": "VE",
+      "region": "Venezuela"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "icon": "ri:linkedin-fill",
+        "color": "#1DA1F2",
+        "url": "https://www.linkedin.com/in/juan-santil/"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "color": "#929AAB",
+        "username": "juan1779",
+        "url": "https://github.com/juan1779"
+      },
+      {
+        "network": "Email",
+        "icon": "ri:mail-fill",
+        "color": "#D44638",
+        "username": "JuanSantil",
+        "url": "mailto:juansantil061299@gmail.com"
+      },
+      {
+        "network": "Facebook",
+        "icon": "ri:facebook-fill",
+        "color": "#1773B0",
+        "username": "Facebook",
+        "url": "https://www.facebook.com/JCSN32"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Soidsmart",
+      "position": "Shopify Developer",
+      "location_type": "Remote",
+      "location": "MX",
+      "url": "",
+      "startDate": "2025-06-01",
+      "endDate": null,
+      "summary": "Contributing to a centralized ecommerce platform to manage multiple ecommerce stores from a single interface, including order and inventory management.",
+      "responsibilities": [
+        "Development of advanced themes and custom functionality in Shopify and Shopify Plus.",
+        "Integration of external tools and apps from the Shopify ecosystem.",
+        "Ongoing technical support and maintenance of stores in production.",
+        "Collaboration with QA and design teams for controlled deployments."
+      ],
+      "skills": {
+        "Shopify": "simple-icons:shopify",
+        "Shopify Plus": "simple-icons:shopify",
+        "HTML5": "simple-icons:html5",
+        "JavaScript ": "simple-icons:javascript",
+        "CSS3": "ri:css3-fill",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github"
+      }
+    },
+    {
+      "name": "Appicua",
+      "position": "Web Developer",
+      "location_type": "Remote",
+      "location": "CO",
+      "url": "https://appicua.com/",
+      "startDate": "2025-05-03",
+      "endDate": null,
+      "summary": "In this company, I offer services for the development and maintenance of stores or landing pages on WordPress and Shopify, optimizing functionality and user experience to maximize sales and operational efficiency.",
+
+      "responsibilities": [
+        "Development of advanced themes and custom functionality in Shopify and Shopify Plus.",
+        "Integration of external tools and apps from the Shopify ecosystem.",
+        "Ongoing technical support and maintenance of stores in production.",
+        "WordPress and Squarespace theme customization.",
+        "Development of custom solutions for different industries."
+      ],
+
+      "skills": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "Tailwind": "mdi:tailwind",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "Shopify": "simple-icons:shopify",
+        "Shopify Plus": "simple-icons:shopify",
+        "WordPress": "simple-icons:wordpress",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github"
+      }
+    },
+    {
+      "name": " Ysla Group Ltd",
+      "position": " Web Developer & E-commerce Specialist",
+      "location_type": "Remote",
+      "location": "PT",
+      "url": "",
+      "startDate": "2024-03-01",
+      "endDate": "2025-04-01",
+      "summary": "I provide comprehensive services for the creation and maintenance of online stores and landing pages on WordPress and Shopify. My focus is on enhancing functionality and user experience to drive sales and improve operational efficiency.",
+
+      "responsibilities": [
+        "Development of Shopify stores optimized for conversion.",
+        "WordPress and Squarespace theme customization.",
+        "Development of custom solutions for different industries."
+      ],
+
+      "skills": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "Tailwind": "mdi:tailwind",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "Shopify": "simple-icons:shopify",
+        "Shopify Plus": "simple-icons:shopify",
+        "WordPress": "simple-icons:wordpress",
+        "Squarespace": "simple-icons:squarespace",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github"
+      }
+    },
+    {
+      "name": "3xerries Technologies",
+      "position": "Web Developer",
+      "location_type": "Remote",
+      "location": "VE",
+      "url": "",
+      "startDate": "2021-12-01",
+      "endDate": "2024-01-01",
+      "summary": "Specialized in the development and maintenance of functionalities for websites built on Shopify, React, Next.js, and WordPress CMS with PHP using snippets and child themes. Proficient in integrating dynamic forms, custom sliders, and blog modules. Committed to continuous improvement through component refactoring to enhance maintainability and mobile adaptability.",
+
+      "responsibilities": [
+        "Development and maintenance of functionalities for React sites with PHP backend and WordPress  CMS.",
+        "Integration of dynamic forms, custom sliders and blog modules.",
+        "Component refactoring to improve maintainability and mobile adaptability.",
+        "Implementation of pixel-perfect interfaces in React, Shopify and WordPress.",
+        "Adaptation of Figma prototypes to functional and responsive components."
+      ],
+
+      "skills": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "Tailwind": "mdi:tailwind",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "Shopify": "simple-icons:shopify",
+        "Shopify Plus": "simple-icons:shopify",
+        "WordPress": "simple-icons:wordpress",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "React": "simple-icons:react",
+        "Next.js": "simple-icons:nextdotjs"
+      }
+    }
+  ],
+  "education": [],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "simple-icons:bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Next-Js",
+      "icon": "simple-icons:nextdotjs",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
+    },
+    {
+      "name": "React",
+      "icon": "simple-icons:react",
+      "level": "intermediate",
+      "keywords": ["Web Development", "Frontend", "Static Generation"]
+    },
+    {
+      "name": "Shopify",
+      "icon": "simple-icons:shopify",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Static Generation"]
+    },
+    {
+      "name": "Shopify Plus",
+      "icon": "simple-icons:shopify",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "Static Generation"]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "PNPM",
+      "icon": "simple-icons:pnpm",
+      "level": "Beginner",
+      "keywords": ["Package Manager", "Web Development", "Frontend", "Backend"]
+    },
+    {
+      "name": "Wordpress",
+      "icon": "simple-icons:wordpress",
+      "level": "advanced",
+      "keywords": ["Package Manager", "Web Development", "Frontend", "Backend"]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Beginner",
+      "keywords": ["Cloud Computing", "Backend", "Infrastructure"]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Beginner",
+      "keywords": ["OS", "Scripting", "Automation"]
+    },
+    {
+      "name": "Swagger",
+      "icon": "simple-icons:swagger",
+      "level": "Beginner",
+      "keywords": ["API", "Documentation", "Web Development", "Backend"]
+    },
+    {
+      "name": "Postman",
+      "icon": "simple-icons:postman",
+      "level": "Beginner",
+      "keywords": ["API", "Testing", "Web Development", "Backend"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Tricer",
+      "isActive": true,
+      "description": "Join us on this journey to maximize your performance and enjoy nature to the fullest. With Tricer, you'll be equipped to conquer every adventure.",
+      "highlights": [
+        "Shopify Store",
+        "Beautiful and responsive design",
+        "Custom theme development"
+      ],
+      "stack": {
+        "Shopify": "simple-icons:shopify",
+        "JavaScript": "simple-icons:javascript",
+        "Tailwind": "mdi:tailwind",
+        "HTML5": "simple-icons:html5",
+        "gitHub": "mdi:github"
+      },
+      "url": "https://tricer.com/"
+    },
+{
+  "name": "Doña Carmen",
+  "isActive": true,
+  "description": "The store's design is welcoming and attractive, creating an environment that invites customers to explore. The navigation is intuitive, allowing visitors to easily discover the various product categories, from casual wear to more formal outfits.",
+  "highlights": [
+    "Shopify Store",
+    "Beautiful and responsive design",
+    "Custom theme development"
+  ],
+  "stack": {
+    "Shopify": "simple-icons:shopify",
+    "JavaScript": "simple-icons:javascript",
+    "Css": "simple-icons:css",
+    "HTML5": "simple-icons:html5",
+    "gitHub": "mdi:github"
+  },
+  "url": "https://donacarmen.com/"
+},
+    {
+      "name": "Flamingueo",
+      "isActive": false,
+      "description": "Flamingueo Store is a vibrant online shop dedicated to offering a wide range of lifestyle and decor products with a tropical and fun twist. With an attractive and colorful design, the store reflects the essence of a cheerful and carefree lifestyle.",
+      "highlights": [
+        "Shopify Store",
+        "Beautiful and responsive design",
+        "Custom theme development"
+      ],
+
+      "stack": {
+        "Shopify": "simple-icons:shopify",
+        "JavaScript": "simple-icons:javascript",
+        "Css": "simple-icons:css",
+        "HTML5": "simple-icons:html5",
+        "gitHub": "mdi:github"
+      },
+      "url": "https://flamingueostore.com/"
+    },
+    {
+      "name": "Zenement",
+      "isActive": true,
+      "description": "Zenement is an online store dedicated to offering a wide range of nutritional and wellness supplements that cover a variety of needs. From vitamins and minerals to products for cardiovascular, digestive, and brain health, the store focuses on providing natural and high-quality solutions to improve the quality of life for its customers.",
+      "highlights": [
+        "Cart Management",
+        "Order Management",
+        "Shopify Store",
+        "Beautiful and responsive design",
+        "Custom theme development",
+        "Product Browsing & Filtering"
+
+      ],
+      "stack": {
+        "Shopify": "simple-icons:shopify",
+        "JavaScript": "simple-icons:javascript",
+        "Css": "simple-icons:css",
+        "HTML5": "simple-icons:html5",
+        "gitHub": "mdi:github"
+      },
+      "url": "https://zenement.com/"
+    },
+    {
+      "name": "Valle Dulce",
+      "isActive": true,
+      "description": "A project focused on the integration of people, combining housing, commerce, industry, and education, with the main objective of driving the transformation of San Salvador Oeste.",
+      "highlights": [
+        "Beautiful and responsive design",
+        "Custom theme development",
+        "Product Browsing & Filtering",
+        "Contact Forms",
+        "Mobile-Friendly Design"
+      ],
+
+      "stack": {
+        "JavaScript": "simple-icons:javascript",
+        "Css": "simple-icons:css",
+        "HTML5": "simple-icons:html5",
+        "PHP": "simple-icons:php",
+        "wordPress": "simple-icons:wordpress"
+      },
+      "url": "https://valledulce.com/"
+    },
+    {
+      "name": "Puerta del Balsamo",
+      "isActive": true,
+      "description": "Puerta del Balsamo is a project that aims to integrate communities by combining housing, commerce, industry, and education. Its main objective is to drive transformation and sustainable development in El Salvador.",
+      "highlights": [
+        "Beautiful and responsive design",
+        "Custom theme development",
+        "Product Browsing & Filtering",
+        "Contact Forms",
+        "Mobile-Friendly Design"
+      ],
+      "stack": {
+        "JavaScript": "simple-icons:javascript",
+        "Css": "simple-icons:css",
+        "HTML5": "simple-icons:html5",
+        "PHP": "simple-icons:php",
+        "wordPress": "simple-icons:wordpress",
+        "Hostinger": "simple-icons:hostinger"
+      },
+      "url": "https://puertadelbalsamo.com/"
+    }
+  ]
+}
